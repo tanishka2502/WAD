@@ -1,0 +1,28 @@
+check git installed or not git --version
+in terminal :
+git init
+echo "#My First GitHub Project">README.md
+git add .
+git commit -m "first commit"
+
+login to your github account
+create new repository
+copy https repository link
+
+in terminal:
+git remote add origin paste link that u copied 
+git branch -M main
+git push -u origin main
+
+command for account login :
+git config --global user.name "username"
+git config --global user.email "your email"
+
+cd path to project folder (code file)
+git init
+git add .
+git commit -m "first commit"
+git remote add origin (GitHub repo link)
+git branch -M main
+git push -u origin main
+

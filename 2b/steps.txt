@@ -1,0 +1,6 @@
+install docker extension
+in terminal :
+docker --version
+node tanishka.js
+docker build -t 2b .
+docker images
