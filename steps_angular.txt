@@ -1,0 +1,5 @@
+npm install
+ng serve
+
+if does not work try this first then try again 
+npm install -g @angular/cli
