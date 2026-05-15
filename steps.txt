@@ -1,0 +1,20 @@
+npm init -y // this will create package.json
+npm install express // this will create package-lock.json
+
+create server.js copy code
+
+create separate folder public in that index.html copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static Website</title>
+</head>
+<body>
+    <h1>Welcome to Static Website</h1>
+    <p>Created using node.js</p>
+</body>
+</html>
+
+node server.js
